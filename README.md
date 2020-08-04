@@ -25,6 +25,8 @@ main.py - Is main file with code,
 train_list - Data for intent classification,
 speec_recog - for google speech recognition,
 news_scrapper- access news,
+movies_metadata- movies data for recommendation engine
+
 
 note-
 1) html on most site changes or renew so perform same changes for scrapping.
